@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/grocery-basket/static/css/main.0a42a38f.chunk.css",
-    "main.js": "/grocery-basket/static/js/main.0374e39b.chunk.js",
-    "main.js.map": "/grocery-basket/static/js/main.0374e39b.chunk.js.map",
+    "main.css": "/grocery-basket/static/css/main.4a603f02.chunk.css",
+    "main.js": "/grocery-basket/static/js/main.decfc8b1.chunk.js",
+    "main.js.map": "/grocery-basket/static/js/main.decfc8b1.chunk.js.map",
     "runtime-main.js": "/grocery-basket/static/js/runtime-main.39d8b822.js",
     "runtime-main.js.map": "/grocery-basket/static/js/runtime-main.39d8b822.js.map",
     "static/js/2.fc397075.chunk.js": "/grocery-basket/static/js/2.fc397075.chunk.js",
     "static/js/2.fc397075.chunk.js.map": "/grocery-basket/static/js/2.fc397075.chunk.js.map",
     "index.html": "/grocery-basket/index.html",
-    "static/css/main.0a42a38f.chunk.css.map": "/grocery-basket/static/css/main.0a42a38f.chunk.css.map",
+    "static/css/main.4a603f02.chunk.css.map": "/grocery-basket/static/css/main.4a603f02.chunk.css.map",
     "static/js/2.fc397075.chunk.js.LICENSE.txt": "/grocery-basket/static/js/2.fc397075.chunk.js.LICENSE.txt",
     "static/media/App.css": "/grocery-basket/static/media/vegetable-c.91e89f3f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.39d8b822.js",
     "static/js/2.fc397075.chunk.js",
-    "static/css/main.0a42a38f.chunk.css",
-    "static/js/main.0374e39b.chunk.js"
+    "static/css/main.4a603f02.chunk.css",
+    "static/js/main.decfc8b1.chunk.js"
   ]
 }
